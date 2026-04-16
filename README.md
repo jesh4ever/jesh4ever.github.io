@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -182,9 +183,22 @@
       <button class="carousel-btn" id="nextBtn">&#8594;</button>
     </div>
   </div>
+
+  <div style="text-align:center; margin-top: 1.8rem; position:relative; z-index:1;">
+    <a href="https://appliqable.dm2buy.in" target="_blank" style="background: var(--purple); color: white; border: none; border-radius: 50px; padding: 0.75rem 2.2rem; font-family: 'Quicksand', sans-serif; font-weight: 700; font-size: 0.95rem; cursor: pointer; letter-spacing: 0.5px; text-decoration: none; display: inline-block;">order now~</a>
+  </div>
 </section>
 
 <section id="about">
+  <div style="text-align:center; padding: 2.5rem 1.5rem 0; position:relative; z-index:1;">
+    <a href="https://appliqable.dm2buy.in" target="_blank" style="font-family: 'Quicksand', sans-serif; font-size: 1rem; font-weight: 700; color: var(--purple); letter-spacing: 1px; text-decoration: none; display: block; margin-bottom: 1.4rem;">🛍 appliqable.dm2buy.in</a>
+    <div style="display:inline-flex; flex-wrap:wrap; justify-content:center; gap: 0.75rem 1.5rem;">
+      <span style="font-size:0.88rem; font-weight:700; color: var(--text);">📦 shipping charge: ₹80</span>
+      <span style="font-size:0.88rem; font-weight:700; color: var(--text);">✉️ shipped via India Post</span>
+      <span style="font-size:0.88rem; font-weight:700; color: var(--text);">⏳ orders processed in 5–7 days</span>
+    </div>
+  </div>
+
   <div class="section-header">
     <p class="section-label">✦ our story ✦</p>
   </div>
